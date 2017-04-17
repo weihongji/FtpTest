@@ -1,0 +1,4 @@
+obj/
+/*.suo
+*.pdb
+*.vshost.exe
